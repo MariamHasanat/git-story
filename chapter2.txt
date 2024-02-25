@@ -1,5 +1,6 @@
 Chapter 2: Git's Decision
 Git, after much contemplation, decided to leave his home in Init to explore the vast world of Version Control.
+
 And he met a very sweet cat; he took the cat and gave it the name 'Lucy'.
 
 His family and friends gathered to bid him farewell with him cat Lucy. It was an emotional moment, but Git was determined.
